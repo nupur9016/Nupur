@@ -1,0 +1,5 @@
+Ipswich Suffolk, United Kingdom
+OpenstreetMap link:https://www.openstreetmap.org/relation/53324#map=12/52.0575/1.1654
+Metro Extracts:https://mapzen.com/data/metro-extracts/your-extracts/6d4dc79de0d8
+I live in the small town of Ipswich and just wanted to explore the openstreetmap data for my town out of interest.
+
