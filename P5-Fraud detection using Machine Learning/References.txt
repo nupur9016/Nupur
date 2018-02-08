@@ -1,0 +1,9 @@
+1.http://www.cs.cmu.edu/~./enron/
+2.http://en.wikipedia.org/wiki/Enron 
+3.http://en.wikipedia.org/wiki/Precision_and_recall 
+4.http://www.ritchieng.com/machine-learning-decision-trees/
+5.https://pandas.pydata.org/
+6.http://scikit-learn.org/stable/modules/cross_validation.html
+7.http://scikit-learn.org/stable/modules/generated/sklearn.model_selection.GridSearchCV.html
+8.http://scikit-learn.org/stable/modules/generated/sklearn.metrics.f1_score.html
+
