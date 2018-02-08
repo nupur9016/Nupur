@@ -1,0 +1,5 @@
+1. https://www.bbr.com/wine-knowledge/faq-quality
+2. http://statisticsbyjim.com/regression/interpret-r-squared-regression/
+3. https://onlinecourses.science.psu.edu/stat857/node/224
+4. https://www.r-statistics.com/2013/05/log-transformations-for-skewed-and-wide-distributions-from-practical-data-science-with-r/
+5.http://www.cookbook-r.com/Graphs/Colors_(ggplot2)/#a-colorblind-friendly-palette
