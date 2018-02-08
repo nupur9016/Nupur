@@ -4,3 +4,4 @@
    created a report to share the results.
 3. P3-WRANGLING OPENSTREET MAP DATA : Chose a region and used data munging techniques to assess the quality of the data for validity, 
    accuracy, completeness, consistency and uniformity.
+4. P4-EXPLORATORY DATA ANALYSIS USING R : Investigated a dataset using R and exploratory data analysis techniques, exploring both single variables and relationships between variables.
